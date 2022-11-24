@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.0",
+	"EngineAssociation": "{054B4462-4E9F-B95F-E43B-56A41176A433}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -13,10 +13,6 @@
 		},
 		{
 			"Name": "RawInput",
-			"Enabled": true
-		},
-		{
-			"Name": "StaticMeshEditorModeling",
 			"Enabled": true
 		}
 	]

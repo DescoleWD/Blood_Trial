@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{8F15AABE-4457-5DC5-91D0-46AC25230CCE}",
+	"EngineAssociation": "5.0",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -14,6 +14,15 @@
 		{
 			"Name": "RawInput",
 			"Enabled": true
+		},
+		{
+			"Name": "Bridge",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
 		}
 	]
 }

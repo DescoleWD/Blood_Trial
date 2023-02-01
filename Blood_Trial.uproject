@@ -23,6 +23,10 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "Takes",
+			"Enabled": true
 		}
 	]
 }
